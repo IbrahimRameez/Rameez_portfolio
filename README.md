@@ -1,98 +1,62 @@
-📊 Ibrahim Rameez M K – Data Analyst
+# Ibrahim Rameez M K
 
-Calicut, India
-📧 ibrahimrameez.mk@gmail.com
+✉️ [ibrahimrameez.mk@gmail.com](mailto:ibrahimrameez.mk@gmail.com) · 📞 +91 944739 4047 · 🔗 [linkedin.com/in/ibrahimrameezmk](https://www.linkedin.com/in/ibrahimrameezmk)
 
-📱 +91 94473 94047
-🔗 LinkedIn: in/LINKEDIN
+---
 
-🚀 About Me
+## 🌟 About Me
 
-Aspiring Data Analyst skilled in Power BI, Tableau, SQL, Excel, and end-to-end data workflows. I transform raw data into meaningful insights through dashboards, models, and automation. Passionate about data storytelling, dashboard design, and solving business problems with clean, structured analytics.
+Data Analyst specialising in **automated MIS reporting, dashboard development, and relational database management**. Experienced with Excel (VBA), SQL, Power BI, Tableau, and Google Apps Script. I turn raw, messy data into clean, actionable insights that support faster and better decision-making. Currently open to **Data Analyst, MIS Executive, and Business Analyst** roles in India and remotely. 🚀
 
-🎯 Professional Summary
+---
 
-Experience in dashboard development, ETL, data modeling, and automation.
+## 🎓 Education
 
-Proficient in Power Query, advanced Excel, and SQL-based data extraction.
+- **Bachelor of Commerce  (B.com) — Finance**
+  *University of calicut* · 
 
-Strong understanding of KPIs, business trends, and performance analytics.
+---
 
-Focused on delivering data-driven insights to accelerate decision-making.
+## 🧠 Tools & Skills
 
-🧑‍💼 Experience
-Data Analyst Intern — Rows and Columns (April 2025 – Present)
+| Category | Tools |
+|---|---|
+| **BI & Visualisation** | Power BI (DAX, Data Modelling), Tableau |
+| **Spreadsheets & Automation** | Advanced Excel (VBA, UserForms, Power Query, Pivot Tables), Google Sheets (Apps Script) |
+| **Databases** | MySQL, SQL (Joins, Subqueries, Aggregations) |
+| **Analytics** | Microsoft AI-assisted Analytics, RCM Analysis, KPI Design |
+| **Other** | MIS Reporting, ETL, Dashboard UI/UX, Stakeholder Reporting, Data Cleaning |
 
-Built interactive dashboards using Power BI & Tableau, improving insight generation by 30%.
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=Google-Sheets&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA-217346?logo=Microsoft&logoColor=white)
 
-Performed ETL using Power Query and SQL to clean and model datasets.
+---
 
-Conducted exploration & mining to uncover business patterns.
+## 💼 Work Experience
 
-Managed structured datasets ensuring high data accuracy.
 
-Accountant — CA Noufal Association (July 2021 – Dec 2024)
+### 🔹 Data Analyst Intern — *Rows & Columns* · Calicut, Kerala · May 2025 – Nov 2025
 
-Performed data validation using Pivot Tables, lookup functions, conditional formatting, reducing reporting errors by 30%.
+- Performed end-to-end data preparation — cleaning, transforming, and validating datasets using Excel, SQL, Power BI, and Tableau — resulting in a **30% improvement in data accuracy**.
+- Engineered custom automation tools including an HTML-based Google Sheets form and VBA-powered Excel interface, **eliminating manual entry errors** entirely.
+- Designed automated workflows and reusable report templates, **cutting manual reporting effort by 40%**.
+- Presented data insights bi-weekly to **30+ stakeholders**, increasing data-driven decision adoption by **25% over 3 months**.
 
-Automated reconciliation using Excel Macros + Power Query, cutting manual effort by 40%.
+## 🎯 Interests
 
-Improved financial close timelines through optimized reporting workflows.
+- 📊 **Dashboard Design**
+- 📈 **Data Analysis**
+- ✈️ **Travelling**
+- 📚 **Reading**
 
-🛠 Projects
-🔹 Inventory Management Dashboard
+---
 
-Built multi-layer dashboard analyzing restocking patterns, lead times, and category performance.
+## 📫 Contact Details
 
-Identified high-risk suppliers and reduced procurement delays by 15%.
+*Currently open to Data Analyst, MIS Executive, and Business Analyst roles — let's connect!*
 
-Enabled forecasting & agile stock planning with threshold alerts.
-
-🔹 Employee Analytics Dashboard (MySQL + Power BI)
-
-Integrated multiple MySQL tables using complex joins, modeling, optimized SQL views.
-
-Created SQL views for metrics such as salary trends, attrition, department counts.
-
-Improved reporting speed and reduced query load for dynamic dashboards.
-
-🔹 CRM Sales Analytics Dashboard
-
-Designed multi-page CRM dashboard tracking pipeline, conversions & KPIs.
-
-Used DAX to measure win/loss, deal value, and cycle duration—achieving 25% cycle-time reduction insights.
-
-Revealed 15% win rate improvement in top regions via slicing.
-
-🔹 Invoice Normalization & Dashboard Automation
-
-Automated data cleaning with VBA, reducing manual work by 70%.
-
-Built dashboards for customer totals, category performance, and monthly summaries.
-
-🎓 Education
-
-Bachelor of Commerce (Finance)
-Calicut University — 2021
-
-📜 Certifications
-
-Data Analytics Certification — Rows & Columns, Calicut (Jan–Mar 2025)
-
-🔧 Skills
-
-Power BI
-
-SQL
-
-Excel (Advanced)
-
-Tableau
-
-Data Cleaning & Modeling
-
-KPI Tracking & Reporting
-
-Dashboard Design
-
-ETL Automation
+| | |
+|---|---|
+| 📧 | [ibrahimrameez.mk@gmail.com](mailto:ibrahimrameez.mk@gmail.com) |
+| 📞 | (+91) 944739 4047 |
+| 📍 | Kerala, India |
+| 🌐 | [Connect on LinkedIn](https://www.linkedin.com/in/ibrahimrameezmk) |
